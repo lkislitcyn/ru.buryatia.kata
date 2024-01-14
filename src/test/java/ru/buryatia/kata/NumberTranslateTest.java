@@ -10,7 +10,7 @@ public class NumberTranslateTest {
 
     @Test
     public void fromRomeToArabic() {
-        Assert.assertEquals(9,NumberTranslate.fromRomeToArabic("IX"));
+        Assert.assertEquals(9, NumberTranslate.fromRomeToArabic("IX"));
 
     }
 
