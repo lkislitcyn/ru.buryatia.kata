@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="22255c34-d553-414f-98a1-53f854aaa28e" name="Changes" comment="Try" />
+    <list default="true" id="22255c34-d553-414f-98a1-53f854aaa28e" name="Changes" comment="Add gitingore">
+      <change beforePath="$PROJECT_DIR$/src/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +50,9 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="ru.buryatia.kata" />
@@ -130,7 +135,7 @@
       <option name="presentableId" value="Default" />
       <updated>1704861281080</updated>
       <workItem from="1704861282295" duration="29407000" />
-      <workItem from="1705062059506" duration="28076000" />
+      <workItem from="1705062059506" duration="28823000" />
     </task>
     <task id="LOCAL-00001" summary="Try">
       <created>1705244431312</created>
@@ -139,7 +144,14 @@
       <option name="project" value="LOCAL" />
       <updated>1705244431312</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Add gitingore">
+      <created>1705245165682</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1705245165682</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -158,6 +170,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Try" />
-    <option name="LAST_COMMIT_MESSAGE" value="Try" />
+    <MESSAGE value="Add gitingore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add gitingore" />
   </component>
 </project>
