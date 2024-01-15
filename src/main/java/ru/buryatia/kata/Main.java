@@ -1,7 +1,5 @@
 package ru.buryatia.kata;
 
-import java.util.Scanner;
-
 public class Main {
     public static String calc(String input) {
 //        System.out.println("Введите уравнение формата (1 + 6) или (I + IV), где числа от 1 до 10, математические операции +,-,*,/");
