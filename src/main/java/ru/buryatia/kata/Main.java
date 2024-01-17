@@ -1,12 +1,19 @@
 package ru.buryatia.kata;
 
+import java.util.Scanner;
+
 public class Main {
+    public static void main(String[] args) {
+        System.out.println("Введите уравнение формата (1 + 6) или (I + IV), где числа от 1 до 10, математические операции +,-,*,/");
+        Scanner scanner = new Scanner(System.in);
+        var str = scanner.nextLine();
+        System.out.println(calc(str));
+    }
     public static String calc(String input) {
-//        System.out.println("Введите уравнение формата (1 + 6) или (I + IV), где числа от 1 до 10, математические операции +,-,*,/");
+
         var checkMoreLess = false;
         int result;
-//        Scanner scanner = new Scanner(System.in);
-//        var str = scanner.nextLine();
+
         String[] pars = input.trim().split(" ");
         var calculator = new Calculator();
         var checkNumber = new CheckNumber();
